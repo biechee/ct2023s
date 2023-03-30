@@ -65,26 +65,26 @@
   
 
 
-  <rect x="30" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="30.4" y="53.9" style="font-size:3pt;">黃</text>
-  <rect x="30" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="30.4" y="58.733" style="font-size:3pt;">柏</text>
-  <rect x="30" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="30.4" y="63.566" style="font-size:3pt;">喆</text>
+  <rect x="10" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="10.4" y="53.9" style="font-size:3pt;">黃</text>
+  <rect x="10" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="10.4" y="58.733" style="font-size:3pt;">柏</text>
+  <rect x="10" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="10.4" y="63.566" style="font-size:3pt;">喆</text>
 
-  <rect x="34.833" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="35.233" y="53.9" style="font-size:3pt;;" fill="blue">設</text>
-  <rect x="34.833" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="35.233" y="58.733" style="font-size:3pt;" fill="blue">☣</text>
-  <rect x="34.833" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="35.233" y="63.566" style="font-size:3pt;" fill="blue">備</text>
+  <rect x="14.833" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="15.233" y="53.9" style="font-size:3pt;;" fill="blue">設</text>
+  <rect x="14.833" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="15.233" y="58.733" style="font-size:3pt;" fill="blue">☣</text>
+  <rect x="14.833" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="15.233" y="63.566" style="font-size:3pt;" fill="blue">備</text>
 
-  <rect x="39.666" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="40.066" y="53.9" style="font-size:3pt;">𝒜</text>
-  <rect x="39.666" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="40.066" y="58.733" style="font-size:3pt;">𝒞</text>
-  <rect x="39.666" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="40.066" y="63.566" style="font-size:3pt;">ℒ</text>
+  <rect x="19.666" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="20.066" y="53.9" style="font-size:3pt;">𝒜</text>
+  <rect x="19.666" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="20.066" y="58.733" style="font-size:3pt;">𝒞</text>
+  <rect x="19.666" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="20.066" y="63.566" style="font-size:3pt;">ℒ</text>
 
   
 
